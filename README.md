@@ -1,4 +1,5 @@
 # simple-calculator
+<<<<<<< HEAD
 
 - Single-Cycle Design
 - Imitated MIPS Architecture.
@@ -20,3 +21,6 @@
 
 ![img_3.png](assets/img_3.png)
 ![img_4.png](assets/img_4.png)
+=======
+execute arithmetic operation
+>>>>>>> d04f0d1c4d3f99e394f2f6a7257df42fc8665b56
